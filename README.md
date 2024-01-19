@@ -14,7 +14,13 @@
     Frontend is written in ReactJS
     Frontend server starts at port 3000
     
-        ## How to run
+        ## How to run 
             1. Make sure you have node version 14.17.0 installed
-            2. npm install
-            3. npm start
+            2. npm install 
+            3. mkdir gitclone
+            4. cd gitclone 
+            5. git clone https://github.com/shrichaugule3113/devops-fullstack-app.git
+            6. cd devops-fullstack-app
+            7. cd frontend 
+            8. npm install
+            9. npm start
